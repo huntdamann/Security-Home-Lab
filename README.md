@@ -7,10 +7,10 @@ This project will serve as a basic lab setup for a few different services utiliz
 
 ## Project Overview 
 
-1. Raspberry Firewall [Currently Working Here]
-2. Docker Containers []
+1. Raspberry Firewall [X]
+2. Docker Containers [X]
 3. Vulnerability Scanners []
-4. Honeypot []
+4. Honeypot [Currently Working Here]
 5. Malware Experimentation []
 
 
