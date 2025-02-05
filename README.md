@@ -11,9 +11,12 @@ This project will serve as a basic lab setup for a few different services utiliz
 2. Docker Containers [X]
 3. Vulnerability Scanners []
 4. Honeypot [Currently Working Here]
-5. Malware Experimentation []
+5. Malware Experimentation [X]
 
 
 ## Project Diagram
 
+**For Security reasons I won't show full detail of my network, but in general this is how it is setup...**
+
 ![Diagram](/pictures/security-lab-diagram.PNG)
+
